@@ -1,5 +1,5 @@
 class BaseConfig(object):
-    SECRET_KEY = 'very secret key',
+    SECRET_KEY = 'very secret key'
 
 
 class DevelopmentConfig(BaseConfig):
